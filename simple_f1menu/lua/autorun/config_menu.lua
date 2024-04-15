@@ -7,7 +7,7 @@ HelpButtons = {
 
 	{
 		txt	= "Discord",
-		url = "https://www.google.fr/?gfe_rd=cr&ei=eUCiV4KOHonu8wfoq7fgDA#q=Forum",
+		url = "https://discord.gg/CKUcJSAVr4",
 	},
 
 	{
